@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+d:\start_api\snake2.0\stdafx.cpp(27): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\start_api\snake2.0\stdafx.cpp(340): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+  Sceleton.cpp
+  Sceleton.vcxproj -> D:\Start_Api\Snake2.0\Debug\Sceleton.exe
